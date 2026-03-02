@@ -1,0 +1,10 @@
+# Standard-Verhalten: Git entscheidet selbst, aber Python-Dateien erzwingen LF
+* text=auto
+
+# Python Dateien immer mit Linux-Zeilenenden (LF) speichern
+*.py text eol=lf
+
+# Assets als Binärdateien markieren (verhindert Defekte beim Upload)
+*.ico binary
+*.png binary
+*.svg text

@@ -1,0 +1,29 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+venv/
+env/
+ENV/
+
+# VS-Code & OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Nuitka / Build Outputs
+*.build/
+*.dist/
+*.exe
+*.bin
+Outlook-Manager/
+
+# Local Assets / Data
+# Falls deine App Logs oder lokale Datenbanken schreibt:
+*.log
+*.sqlite

@@ -1,0 +1,34 @@
+{
+  "Base03": "#FDF6E3",
+  "Base02": "#EEE8D5",
+  "Base01": "#93A1A1",
+  "Base00": "#839496",
+  "Base0":  "#657B83",
+  "Base1":  "#586E75",
+  "Base2": "#073642",
+  "Base3": "#002B36",
+
+  "Yellow": "#B58900",
+  "Orange": "#CB4B16",
+  "Red": "#DC322F",
+  "Magenta": "#D33682",
+  "Violet": "#6C71C4",
+  "Blue": "#268BD2",
+  "Cyan": "#2AA198",
+  "Green": "#859900",
+
+  "White": "#FFFFFF",
+  "Black": "#000000",
+  "Silver": "#CED4DF",
+
+  "GrayButton": "#CED4DF",
+  "LightGrayButton": "#EDEFF3",
+
+  "HighLightButton": "#FFECB5",
+  "LightHighLightButton": "#FFFAED",
+  "HighLightButtonBorder": "#E5C365",
+
+  "HighLightYellow": "#F1F3F8",
+  "HighLightBlue": "#268BD2",
+  "HighLightBlueTransparent": "#64268BD2"
+}

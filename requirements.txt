@@ -1,0 +1,24 @@
+# --- Core AI & Agents ---
+openai-agents==0.10.3
+openai==2.24.0
+ollama==0.6.1
+python-dotenv==1.2.2
+
+# --- Microsoft Graph & Auth ---
+# Wichtig: msgraph-core muss auf 0.2.2 bleiben
+msgraph-core==0.2.2
+msal==1.32.3
+msal-extensions==1.3.1
+azure-identity==1.23.0
+azure-core==1.34.0
+microsoft-kiota-abstractions==1.9.4
+microsoft-kiota-authentication-azure==1.9.4
+microsoft-kiota-http==1.9.4
+
+# --- GUI & Async ---
+PySide6==6.10.2
+qasync==0.28.0
+
+# --- Utilities ---
+httpx==0.28.1
+pydantic==2.12.5

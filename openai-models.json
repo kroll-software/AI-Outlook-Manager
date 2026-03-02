@@ -1,0 +1,106 @@
+[
+    {
+        "model": "gpt-5.2",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-5.1",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-5",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-5-mini",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-5-nano",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-4",
+        "n_ctx": 8192
+    },
+    {
+        "model": "gpt-4-turbo",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-4-8k",
+        "n_ctx": 8192
+    },
+    {
+        "model": "gpt-4-32k",
+        "n_ctx": 32768
+    },
+    {
+        "model": "gpt-4o",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-4o-mini",
+        "n_ctx": 128000
+    },
+    {
+        "model": "gpt-4.1",
+        "n_ctx": 8192
+    },
+    {
+        "model": "gpt-4.1-mini",
+        "n_ctx": 8192
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "n_ctx": 16384
+    },
+    {
+        "model": "gpt-3.5-turbo-0613",
+        "n_ctx": 16384
+    },
+    {
+        "model": "gpt-3.5-turbo-16k",
+        "n_ctx": 16384
+    },
+    {
+        "model": "gpt-3.5-turbo-16k-0613",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o1",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o1-preview",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o1-mini",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o3",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o3-mini",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o4-mini",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o3-pro",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o3-mini-high",
+        "n_ctx": 16384
+    },
+    {
+        "model": "o4-mini-high",
+        "n_ctx": 16384
+    }
+]
