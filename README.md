@@ -2,9 +2,9 @@
 
 **Manage your Microsoft Outlook workspace through a powerful Multi-Agent System.**
 
-![Screenshot](assets/AI-Outlook-Manager-Screenshot.png)
-
 The **AI Outlook-Manager** is a sophisticated desktop application that brings the power of the [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) directly to your inbox. Using the Microsoft Graph API, it allows you to interact with your emails, appointments, and tasks using natural language.
+
+![Screenshot](assets/AI-Outlook-Manager-Screenshot.png)
 
 ---
 
